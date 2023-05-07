@@ -21,4 +21,5 @@ I created this project to practice OOP principles with Python and to experiment 
   
 - and finally in the last step the new postings are distributed to the Discord server:
 
-![Screenshot from 2023-05-08 00-17-39](https://user-images.githubusercontent.com/38301587/236705210-ea2fa351-abc1-44da-bddd-5a821507f026.png)![Screenshot from 2023-05-08 00-17-24](https://user-images.githubusercontent.com/38301587/236705208-27c15190-df17-4558-84df-7f292f2a404e.png)
+  ![Screenshot from 2023-05-08 00-17-39](https://user-images.githubusercontent.com/38301587/236705210-ea2fa351-abc1-44da-bddd-5a821507f026.png)
+  ![Screenshot from 2023-05-08 00-17-24](https://user-images.githubusercontent.com/38301587/236705208-27c15190-df17-4558-84df-7f292f2a404e.png)
